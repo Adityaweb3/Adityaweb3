@@ -3,10 +3,12 @@
 
 
 
+[Aditya's Resume.pdf](https://github.com/Adityaweb3/funding-dao/files/8799905/Aditya.s.Resume.pdf)
 
-
-<h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Pandey  </h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaweb3" alt="adityaweb3" /></a> </p>
 
