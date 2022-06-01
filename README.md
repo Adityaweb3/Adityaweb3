@@ -5,6 +5,8 @@
 
 [Aditya's Resume.pdf](https://github.com/Adityaweb3/funding-dao/files/8799905/Aditya.s.Resume.pdf)
 
+https://adityaweb3.github.io/
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey  </h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
 
