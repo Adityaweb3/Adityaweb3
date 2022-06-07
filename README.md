@@ -3,7 +3,8 @@
 
 
 
-[Aditya's Resume.pdf](https://github.com/Adityaweb3/funding-dao/files/8799905/Aditya.s.Resume.pdf)
+[resume_aditya.pdf](https://github.com/Adityaweb3/FUND-_DAO/files/8855930/resume_aditya.pdf)
+
 
 https://adityaweb3.github.io/
 
