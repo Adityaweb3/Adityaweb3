@@ -1,15 +1,8 @@
-
-
-
-
-
-[resume_aditya.pdf](https://github.com/Adityaweb3/FUND-_DAO/files/8855930/resume_aditya.pdf)
-
-
 https://adityaweb3.github.io/
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey  </h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
+
 
 
 
@@ -43,7 +36,6 @@ https://adityaweb3.github.io/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaweb3&show_icons=true&locale=en" alt="adityaweb3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaweb3&" alt="adityaweb3" /></p>
 
 
 
