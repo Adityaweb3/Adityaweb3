@@ -8,7 +8,7 @@ https://adityaweb3.github.io/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaweb3" alt="adityaweb3" /></a> </p>
 
-- 🔭 I’m currently working on [SkillDapp](https://github.com/Adityaweb3/skillDapp_starter)
+- 🔭 I’m currently working at centreLocus as a Blockchain Developer 
 
 - 🌱 I’m currently learning **Solana Development**
 
