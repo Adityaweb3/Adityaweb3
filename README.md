@@ -1,4 +1,4 @@
-https://adityaweb3.github.io/
+https://aditya-s-site.vercel.app/
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey  </h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
@@ -10,7 +10,7 @@ https://adityaweb3.github.io/
 
  
 
-- 🌱 I’m currently learning **Solana Development**
+- 🌱 I’m currently learning **Defi**
 
 - 📝 I also create web3 content on LinkedIn [https://www.linkedin.com/in/aditya-k-pandey-7031031aa/](https://www.linkedin.com/in/aditya-k-pandey-7031031aa/)
 
