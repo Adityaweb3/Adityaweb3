@@ -10,7 +10,7 @@ https://aditya-s-site.vercel.app/
 
  
 
-- 🌱 I’m currently learning **Defi**
+- 🌱 I’m currently Exploring  **Defi**
 
 - 📝 I also create web3 content on LinkedIn [https://www.linkedin.com/in/aditya-k-pandey-7031031aa/](https://www.linkedin.com/in/aditya-k-pandey-7031031aa/)
 
