@@ -12,7 +12,7 @@ https://aditya-s-site.vercel.app/
 
 - 🌱 I’m currently Exploring  **Defi**
 
-- 📝 I also create web3 content on LinkedIn [https://www.linkedin.com/in/aditya-k-pandey-7031031aa/](https://www.linkedin.com/in/aditya-k-pandey-7031031aa/)
+- 📝 Pursuing B.Tech from **Indian Institute Of Information Technology Dharwad **
 
 - 💬 Ask me about **Blockchain, Flutter , Machine Learning**
 
