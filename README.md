@@ -10,7 +10,7 @@ https://aditya-s-site.vercel.app/
 
  
 
-- 🌱 I’m currently Exploring  **Defi**
+- 🌱 I’m currently Exploring  **zero knowledge proof**
 
 - 📝 Pursuing B.Tech from **Indian Institute Of Information Technology Dharwad**
 
