@@ -12,7 +12,7 @@ https://aditya-s-site.vercel.app/
 
 - 🌱 I’m currently Exploring  **zero knowledge proof**
 
-- 📝 Pursuing B.Tech from **Indian Institute Of Information Technology Dharwad**
+- 📝 Pursuing B.Tech at **Indian Institute Of Information Technology Dharwad**
 
 - 💬 Ask me about **Blockchain, Flutter , Machine Learning**
 
