@@ -1,4 +1,3 @@
-https://aditya-s-site.vercel.app/
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey  </h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
