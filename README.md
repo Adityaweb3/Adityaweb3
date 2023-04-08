@@ -35,6 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaweb3&show_icons=true&locale=en" alt="adityaweb3" /></p>
 
+<a href="https://www.buymeacoffee.com/adityapande"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 
 
 
