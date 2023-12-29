@@ -9,11 +9,11 @@
 
  
 
-- 🌱 I’m currently Exploring  **zero knowledge proof**
+- 🌱 I’m currently Exploring  **Django and Rust **
 
 - 📝 Pursuing B.Tech at **Indian Institute Of Information Technology Dharwad**
 
-- 💬 Ask me about **Blockchain, Flutter , Machine Learning**
+- 💬 Ask me about **Website Development, Blockchain, Python , Machine Learning**
 
 - 📫 How to reach me **ap7596112@gmail.com**
 
