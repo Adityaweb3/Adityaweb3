@@ -13,7 +13,7 @@
 
 - 📝 Pursuing B.Tech at **Indian Institute Of Information Technology Dharwad**
 
-- 💬 Ask me about **Website Development, Blockchain, Python , Machine Learning**
+- 💬 Ask me about **Website Development, Blockchain, Python , Django**
 
 - 📫 How to reach me **ap7596112@gmail.com**
 
