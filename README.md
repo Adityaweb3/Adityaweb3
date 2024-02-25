@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vivek-pandey01/" target="_blank"> Aditya K Pandey </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/aditya-k-pandey/" target="_blank"> Aditya K Pandey </a></h1>
 
 <h3 align="center"> Software Developer </h3>
 
