@@ -17,7 +17,7 @@
 <h2>Technical Skills</h2>
    
 
-Known Languages: C++, Python, C, Html, JavaScript, CSS and SQL.
+Known Languages: C++, Python, Javascript, GO, Java
 
 <p align="center"> 
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
